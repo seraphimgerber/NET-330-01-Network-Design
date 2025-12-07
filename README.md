@@ -77,7 +77,7 @@ This course will help students understand:
 
 ### Week 13 - VPN
 
-[Assignment 13-1: VPN Research]
+[Assignment 13-1: VPN Research](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/Assignment-13%E2%80%901:-VPN-Research)
 
 [LAB 13-1 IPSEC Packet Tracer 1]
 
