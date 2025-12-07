@@ -69,11 +69,11 @@ This course will help students understand:
 
 ### Week 11 - Network Zoning
 
-[Homework Lab 11-1 Cisco Access-List Assignment]
+[Homework Lab 11-1 Cisco Access-List Assignment](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/Lab-11%E2%80%901:-Cisco-Access%E2%80%90List-Assignment)
 
 ### Week 12- IPv6
 
-[Lab 12-1 IPv6 PT Lab]
+[Lab 12-1 IPv6 PT Lab](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/Lab-12%E2%80%901:-IPv6-PT-Lab)
 
 ### Week 13 - VPN
 
