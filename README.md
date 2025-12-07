@@ -30,3 +30,63 @@ This course will help students understand:
 ---
 
 # Modules
+
+### Module 2 - VLSM
+
+[Lab 2-1: Subnet Design](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/Lab-2%E2%80%901:-Subnet-Design)
+
+### Module 3 - Enterprise DHCP
+
+[Lab 3-3 DHCP Server in Packet Tracer](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/Lab-3%E2%80%903:-DHCP-Server-in-Packet-Tracer)
+
+### Week 4
+
+[Lab 4-1: Class Lab Small Enterprise](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/Lab-4%E2%80%901:-Small-Enterprise-Lab)
+
+### Module 5 - Small Enterprise Class Lab
+
+[Lab 5-1: Small Enterprise-Class Lab](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/Lab-5%E2%80%901:-Small-Enterprise%E2%80%90Class-Lab)
+
+###  Week 6 NAT
+
+[Lab 6-1 NAT Configuration - Static NAT](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/Labs-6%E2%80%901,-6%E2%80%902,-and-6%E2%80%903:-NAT-&-PAT)
+
+[Lab 6-2 NAT Configuration - PAT](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/Labs-6%E2%80%901,-6%E2%80%902,-and-6%E2%80%903:-NAT-&-PAT#lab-6-2-pat-configuration)
+
+[Lab 6-3 NAT LAB 3- Champlain Example Lab](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/Labs-6%E2%80%901,-6%E2%80%902,-and-6%E2%80%903:-NAT-&-PAT#lab-6-3-combined-nat-configuration)
+
+### Week 8
+
+[Lab 8-1B OSPF PT Activity](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/Lab-8%E2%80%901B:-OSPF-PT-Activity)
+
+[Assignment 8 -OSPF Authentication Assignment](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/Assignment-8:-OSPF-Authentication-Assignment)
+
+### Week 9 - BGP
+
+[9-1 Build-a-Network: Challenge 1]
+
+[9-2 Build a Network Challenge 2- BGP]
+
+### Week 11 - Network Zoning
+
+[Homework Lab 11-1 Cisco Access-List Assignment]
+
+### Week 12- IPv6
+
+[Lab 12-1 IPv6 PT Lab]
+
+### Week 13 - VPN
+
+[Assignment 13-1: VPN Research]
+
+[LAB 13-1 IPSEC Packet Tracer 1]
+
+### Week 14 - Load Balancing
+
+[Lab 14-1 HAProxy Load Balancer - Lab]
+
+### Final Project Week 1
+
+[FA2022-Final Project Part 1]
+
+[FA2022-Final Project Part 2]
