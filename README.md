@@ -63,9 +63,9 @@ This course will help students understand:
 
 ### Week 9 - BGP
 
-[9-1 Build-a-Network: Challenge 1]
+[9-1 Build-a-Network: Challenge 1](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/9%E2%80%901-Build%E2%80%90a%E2%80%90Network:-Challenge-1)
 
-[9-2 Build a Network Challenge 2- BGP]
+[9-2 Build a Network Challenge 2 - BGP](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/9%E2%80%902-Build-a-Network:-Challenge-2-%E2%80%90-BGP)
 
 ### Week 11 - Network Zoning
 
