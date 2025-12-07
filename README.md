@@ -79,7 +79,7 @@ This course will help students understand:
 
 [Assignment 13-1: VPN Research](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/Assignment-13%E2%80%901:-VPN-Research)
 
-[LAB 13-1 IPSEC Packet Tracer 1]
+[LAB 13-1 IPSEC Packet Tracer 1](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/LAB-13%E2%80%901:-IPSEC-Packet-Tracer-1)
 
 ### Week 14 - Load Balancing
 
