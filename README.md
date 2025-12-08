@@ -25,7 +25,7 @@ This course will help students understand:
 * Economics of corporate IT
 * Complexity of modern networks and impact of changes
 * How to design and develop a network that can accommodate growth and change
-* How to integrate various technologies into an existing network.
+* How to integrate various technologies into an existing network
 
 ---
 
