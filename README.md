@@ -9,7 +9,7 @@
 
 # NET-330: Network Design - Fall 2025
 
-## Course Description and Outcomes
+## Course Description
 This course examines the basic principles and methodologies used in the design of both local and wide area networks. Topics include network options analysis, component and protocol selection, performance considerations and RFP development.
 
 ## Course Outcomes
