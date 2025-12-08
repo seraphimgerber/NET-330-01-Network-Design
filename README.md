@@ -87,6 +87,6 @@ This course will help students understand:
 
 ### Final Project Week 1
 
-[FA2022-Final Project Part 1]
+[FA2022-Final Project Part 1](https://github.com/seraphimgerber/NET-330-01-Network-Design/wiki/Final-Project-Part-1)
 
 [FA2022-Final Project Part 2]
